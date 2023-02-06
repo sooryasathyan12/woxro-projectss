@@ -1,0 +1,19 @@
+
+
+.google img{
+    width: 30px;
+}
+
+.facebook img{
+    width:30px;
+}
+.login{
+    padding-left: 0px;
+    padding-right: 300px;
+    text-align: center;
+    margin-left: 300px;
+}
+.button{
+    border-radius: 4px;
+    background-color: rgb(102, 102, 210);
+}

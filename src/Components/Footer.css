@@ -1,0 +1,55 @@
+#colr{
+    background-color:#084e26;
+    color: white;
+}
+.none a {
+    text-decoration: none;
+}
+.none{
+    color: white;
+}
+
+.txt a{
+    text-decoration: none;
+}
+
+
+.light{
+    border: 1px  solid white;
+}
+
+
+#discl{
+    padding-left: 58px;
+    padding-right: 600px;
+}
+
+.cmpny a{
+    text-decoration: none;
+}
+
+
+.cmpny{
+    color: white;
+    padding-left: 60px;
+}
+
+
+#about{
+    padding-left: 600px;
+
+}
+#foot{
+    padding-left: 40px;
+}
+.footer{
+    font-weight: bold;
+}
+.logo img{
+    width: 200px;
+}
+.logo1{
+    padding-left: 1000px;
+    margin-bottom: 40px;
+    
+}

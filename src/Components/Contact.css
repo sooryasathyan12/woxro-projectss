@@ -1,0 +1,13 @@
+.header{
+    margin-left: 300px;
+    margin-right: 400px;
+
+}
+.form{
+    padding-left: 0px;
+    padding-right: 300px;
+    border-radius: 4px;
+}
+#inlineFormInputGroup1{
+    background-color: rgb(131, 131, 208);
+}
